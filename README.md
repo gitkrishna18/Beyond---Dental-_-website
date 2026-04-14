@@ -18,4 +18,4 @@ HTML, CSS, JavaScript static website
 This site is deployed via Vercel.
 
 ## Author
-Created and deployed by Knox
+Created and deployed by Krishna
